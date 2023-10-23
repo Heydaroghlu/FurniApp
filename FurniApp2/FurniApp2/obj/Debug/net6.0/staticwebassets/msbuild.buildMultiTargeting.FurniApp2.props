@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FurniApp2.props" />
+</Project>

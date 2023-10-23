@@ -1,0 +1,161 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FurniApp2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FurniApp2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\css\\tiny-slider.css",
+      "PackagePath": "staticwebassets\\css\\tiny-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\images\\bag.svg",
+      "PackagePath": "staticwebassets\\images\\bag.svg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\images\\cart.svg",
+      "PackagePath": "staticwebassets\\images\\cart.svg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\images\\couch.png",
+      "PackagePath": "staticwebassets\\images\\couch.png"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\images\\cross.svg",
+      "PackagePath": "staticwebassets\\images\\cross.svg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\images\\dots-green.svg",
+      "PackagePath": "staticwebassets\\images\\dots-green.svg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\images\\dots-light.svg",
+      "PackagePath": "staticwebassets\\images\\dots-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\images\\dots-yellow.svg",
+      "PackagePath": "staticwebassets\\images\\dots-yellow.svg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\images\\envelope-outline.svg",
+      "PackagePath": "staticwebassets\\images\\envelope-outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\images\\img-grid-1.jpg",
+      "PackagePath": "staticwebassets\\images\\img-grid-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\images\\img-grid-2.jpg",
+      "PackagePath": "staticwebassets\\images\\img-grid-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\images\\img-grid-3.jpg",
+      "PackagePath": "staticwebassets\\images\\img-grid-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\images\\person-1.png",
+      "PackagePath": "staticwebassets\\images\\person-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\images\\person_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\images\\person_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\images\\person_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\images\\person_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\images\\post-1.jpg",
+      "PackagePath": "staticwebassets\\images\\post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\images\\post-2.jpg",
+      "PackagePath": "staticwebassets\\images\\post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\images\\post-3.jpg",
+      "PackagePath": "staticwebassets\\images\\post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\images\\product-1.png",
+      "PackagePath": "staticwebassets\\images\\product-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\images\\product-2.png",
+      "PackagePath": "staticwebassets\\images\\product-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\images\\product-3.png",
+      "PackagePath": "staticwebassets\\images\\product-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\images\\return.svg",
+      "PackagePath": "staticwebassets\\images\\return.svg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\images\\sofa.png",
+      "PackagePath": "staticwebassets\\images\\sofa.png"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\images\\support.svg",
+      "PackagePath": "staticwebassets\\images\\support.svg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\images\\truck.svg",
+      "PackagePath": "staticwebassets\\images\\truck.svg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\images\\user.svg",
+      "PackagePath": "staticwebassets\\images\\user.svg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\images\\why-choose-us-img.jpg",
+      "PackagePath": "staticwebassets\\images\\why-choose-us-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Isa\\Desktop\\Sultanin tasklari\\fur2\\FurniApp2\\FurniApp2\\wwwroot\\js\\tiny-slider.js",
+      "PackagePath": "staticwebassets\\js\\tiny-slider.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FurniApp2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FurniApp2.props",
+      "PackagePath": "build\\FurniApp2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FurniApp2.props",
+      "PackagePath": "buildMultiTargeting\\FurniApp2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FurniApp2.props",
+      "PackagePath": "buildTransitive\\FurniApp2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
